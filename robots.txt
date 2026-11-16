@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-sitemap: https://htmlpreview.github.io/?https://github.com/jelenatrkljaa-sys/FORMA/blob/main/index.html#proces/sitemap.xml
+Sitemap: https://github.com/jelenatrkljaa-sys/FORMA/blob/main/index.html/sitemap.xml
